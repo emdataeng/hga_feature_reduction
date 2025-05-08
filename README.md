@@ -1,4 +1,5 @@
-HGA code contain synthetic data generate with Hybrid GA and random forest as a fitness function 
+The goal of this project is to apply Hybrid GA for feature reduction.
+Fitness function uses random forest as a (binary) classifier.
 
 syn_data_on_SCOM.ipynb:
 	To generate Synthetic data based on SECOM dataset
